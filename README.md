@@ -23,6 +23,7 @@ repository `cors-gmbh/pimcore-drive`.
 
 ## License
 
-Copyright (c) CORS GmbH. All rights reserved. The desktop clients are proprietary. Using them
-with a Pimcore installation that runs `cors/pimcore-drive` is permitted; copying or
-redistributing them requires written permission of CORS GmbH (office@cors.gmbh).
+Copyright (c) CORS GmbH. All rights reserved. The desktop clients are proprietary and closed
+source. They are not part of the `cors/pimcore-drive` composer package and are not licensed under
+the CORS License (CL) of the bundle. Using, copying or distributing them requires written
+permission of CORS GmbH (office@cors.gmbh).
